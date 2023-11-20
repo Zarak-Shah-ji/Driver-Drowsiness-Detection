@@ -1,6 +1,15 @@
  # Driver-Drowsiness-Detection                  
 This project analyzes different techniques on how to detect driver drowsiness and compares them to find the best one. Our focus is to detect the face of the driver, primarily its eyes and head movement and assign a score based on how open or how closed the driver’s eyes are and how titled is driver's head. 
+<div align="center">
 
+[![Contributors][contributors_shield]][contributors_url]
+[![Forks][forks_shield]][forks_url]
+[![Stargazers][stars_shield]][stars_url]
+[![Issues][issues_shield]][issues_url]
+[![MIT License][license_shield]][license_url]
+[![LinkedIn][linkedin_shield]][linkedin_url]
+
+</div>
 <h1>  Click the Play button to watch demo </h1>
 
 https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/8fea9aa8-86be-422a-a717-53817c986a32
@@ -22,3 +31,28 @@ https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/8fe
 <img width="1440" alt="Screen Shot 2023-05-27 at 9 43 50 PM" src="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/d5966785-7538-47e1-b58f-f98068da342c">
 <img width="1440" alt="Screen Shot 2023-05-27 at 9 43 54 PM" src="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/bc5b4b48-a2c7-492b-943f-8baed917fdf1">
 <img width="1440" alt="Screen Shot 2023-05-27 at 9 44 00 PM" src="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/b41bbf25-0f0a-4f83-86d0-982e0d775671">
+
+
+<!-- References -->
+<!-- Shield Icons-->
+[contributors_shield]: https://img.shields.io/github/contributors/sotheanithsok/Pipeline-ARM-Processor.svg?style=for-the-badge
+[forks_shield]: https://img.shields.io/github/forks/sotheanithsok/Pipeline-ARM-Processor.svg?style=for-the-badge
+[stars_shield]: https://img.shields.io/github/stars/sotheanithsok/Pipeline-ARM-Processor.svg?style=for-the-badge
+[issues_shield]: https://img.shields.io/github/issues/sotheanithsok/Pipeline-ARM-Processor.svg?style=for-the-badge
+[license_shield]: https://img.shields.io/github/license/sotheanithsok/Pipeline-ARM-Processor.svg?style=for-the-badge
+[linkedin_shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+<!-- Shield URLs -->
+[contributors_url]: https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/graphs/contributors
+[forks_url]: https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/network/members
+[stars_url]: https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/stargazers
+[issues_url]: https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/issues
+[license_url]: https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/blob/master/LICENSE
+[linkedin_url]: https://www.linkedin.com/in/zarakshahji/
+
+<!-- Other links -->
+[Sotheanith Sok]: https://github.com/sotheanithsok
+[Best-README-Template]: https://github.com/othneildrew/Best-README-Template
+[Verilog]: https://www.xilinx.com/
+[CECS 341 - Computer Architecture and Organization]:http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=39992
+[Xilinx]: https://www.xilinx.com/
