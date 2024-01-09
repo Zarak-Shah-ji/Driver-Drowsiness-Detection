@@ -9,9 +9,7 @@ This project analyzes different techniques on how to detect driver drowsiness an
 [![MIT License][license_shield]][license_url]
 [![LinkedIn][linkedin_shield]][linkedin_url]
 
- 
- 
-</div>
+</div>  
 <h1>  Click the Play button to watch demo </h1> 
 
 https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/8fea9aa8-86be-422a-a717-53817c986a32
