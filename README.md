@@ -11,7 +11,7 @@ This project analyzes different techniques on how to detect driver drowsiness an
 
 </div>  
 <h1>  Click the Play button to watch demo </h1> 
-
+  
 https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection/assets/47606946/8fea9aa8-86be-422a-a717-53817c986a32
 
 
