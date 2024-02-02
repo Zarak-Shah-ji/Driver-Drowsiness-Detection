@@ -3,7 +3,7 @@
 
 # # Installing dependencies
 
-# Installing pytorch
+# Installing pytorch 
 
 # In[5]:
 
