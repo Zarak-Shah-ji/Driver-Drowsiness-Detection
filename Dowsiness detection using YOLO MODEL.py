@@ -6,7 +6,7 @@
 # Installing pytorch 
 
 # In[5]:
- 
+  
 
 get_ipython().system('pip3 install torch torchvision torchaudio')
 
