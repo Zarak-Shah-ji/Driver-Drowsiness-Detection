@@ -11,7 +11,7 @@
 get_ipython().system('pip3 install torch torchvision torchaudio')
 
 
-# Cloning the yolo5 model for detection with all requirements
+# Cloning the yolo5 model for detection with all requirements 
 
 # In[1]:
 
