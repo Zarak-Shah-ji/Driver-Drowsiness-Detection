@@ -16,6 +16,7 @@ get_ipython().system('pip3 install torch torchvision torchaudio')
 # In[1]:
 
 
+
 get_ipython().system('git clone https://github.com/ultralytics/yolov5 ')
 
 
