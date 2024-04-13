@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Installing dependencies
-
+ 
 # Installing pytorch  
  
 # In[5]: 
