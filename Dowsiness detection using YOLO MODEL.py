@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Installing dependencies
+# # Installing dependencies 
  
 # Installing pytorch  
  
