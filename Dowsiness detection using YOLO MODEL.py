@@ -179,7 +179,7 @@ plt.imshow(np.squeeze(results.render()))
 plt.show()
 
 
-                                     # # Running the Detection video in Real time
+                                    # # Running the Detection video in Real time
 
 cap = cv2.VideoCapture(0)
 while cap.isOpened():
